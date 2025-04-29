@@ -140,7 +140,7 @@ const CreateAuction = () => {
               themeColor='success'
               disabled={loading}
               leftContent={() => {
-                return <RupeeIcon color='success' />;
+                // return <RupeeIcon color='success' />;
               }}
             />
             <Input
@@ -170,7 +170,7 @@ const CreateAuction = () => {
             <Select
               control={control}
               name='state'
-              label='Your State'
+              label='Your City'
               error={errors?.state?.message}
               defaultValue=''
               themeColor='success'

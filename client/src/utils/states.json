@@ -1,150 +1,118 @@
 [
   {
-    "label": "Select your state",
+    "label": "Select your city",
     "value": ""
   },
   {
-    "label": "Andaman and Nicobar Islands",
-    "value": "Andaman and Nicobar Islands"
+    "label": "Islamabad",
+    "value": "Islamabad"
   },
   {
-    "label": "Andhra Pradesh",
-    "value": "Andhra Pradesh"
+    "label": "Karachi",
+    "value": "Karachi"
   },
   {
-    "label": "Arunachal Pradesh",
-    "value": "Arunachal Pradesh"
+    "label": "Lahore",
+    "value": "Lahore"
   },
   {
-    "label": "Assam",
-    "value": "Assam"
+    "label": "Rawalpindi",
+    "value": "Rawalpindi"
   },
   {
-    "label": "Bihar",
-    "value": "Bihar"
+    "label": "Peshawar",
+    "value": "Peshawar"
   },
   {
-    "label": "Chandigarh",
-    "value": "Chandigarh"
+    "label": "Quetta",
+    "value": "Quetta"
   },
   {
-    "label": "Chhattisgarh",
-    "value": "Chhattisgarh"
+    "label": "Faisalabad",
+    "value": "Faisalabad"
   },
   {
-    "label": "Dadra and Nagar Haveli",
-    "value": "Dadra and Nagar Haveli"
+    "label": "Multan",
+    "value": "Multan"
   },
   {
-    "label": "Daman and Diu",
-    "value": "Daman and Diu"
+    "label": "Sialkot",
+    "value": "Sialkot"
   },
   {
-    "label": "Delhi",
-    "value": "Delhi"
+    "label": "Bahawalpur",
+    "value": "Bahawalpur"
   },
   {
-    "label": "Goa",
-    "value": "Goa"
+    "label": "Sukkur",
+    "value": "Sukkur"
   },
   {
-    "label": "Gujarat",
-    "value": "Gujarat"
+    "label": "Gujranwala",
+    "value": "Gujranwala"
   },
   {
-    "label": "Haryana",
-    "value": "Haryana"
+    "label": "Mardan",
+    "value": "Mardan"
   },
   {
-    "label": "Himachal Pradesh",
-    "value": "Himachal Pradesh"
+    "label": "Hyderabad",
+    "value": "Hyderabad"
   },
   {
-    "label": "Jammu and Kashmir",
-    "value": "Jammu and Kashmir"
+    "label": "Muzaffargarh",
+    "value": "Muzaffargarh"
   },
   {
-    "label": "Jharkhand",
-    "value": "Jharkhand"
+    "label": "Chiniot",
+    "value": "Chiniot"
   },
   {
-    "label": "Karnataka",
-    "value": "Karnataka"
+    "label": "Kohat",
+    "value": "Kohat"
   },
   {
-    "label": "Kerala",
-    "value": "Kerala"
+    "label": "Dera Ghazi Khan",
+    "value": "Dera Ghazi Khan"
   },
   {
-    "label": "Lakshadweep",
-    "value": "Lakshadweep"
+    "label": "Turbat",
+    "value": "Turbat"
   },
   {
-    "label": "Madhya Pradesh",
-    "value": "Madhya Pradesh"
+    "label": "Sargodha",
+    "value": "Sargodha"
   },
   {
-    "label": "Maharashtra",
-    "value": "Maharashtra"
+    "label": "Jhelum",
+    "value": "Jhelum"
   },
   {
-    "label": "Manipur",
-    "value": "Manipur"
+    "label": "Nawabshah",
+    "value": "Nawabshah"
   },
   {
-    "label": "Meghalaya",
-    "value": "Meghalaya"
+    "label": "Chakwal",
+    "value": "Chakwal"
   },
   {
-    "label": "Mizoram",
-    "value": "Mizoram"
+    "label": "Gujrat",
+    "value": "Gujrat"
   },
   {
-    "label": "Nagaland",
-    "value": "Nagaland"
+    "label": "Mianwali",
+    "value": "Mianwali"
   },
   {
-    "label": "Odisha",
-    "value": "Odisha"
+    "label": "Khuzdar",
+    "value": "Khuzdar"
   },
   {
-    "label": "Puducherry",
-    "value": "Puducherry"
+    "label": "Kotli",
+    "value": "Kotli"
   },
   {
-    "label": "Punjab",
-    "value": "Punjab"
-  },
-  {
-    "label": "Rajasthan",
-    "value": "Rajasthan"
-  },
-  {
-    "label": "Sikkim",
-    "value": "Sikkim"
-  },
-  {
-    "label": "Tamil Nadu",
-    "value": "Tamil Nadu"
-  },
-  {
-    "label": "Telangana",
-    "value": "Telangana"
-  },
-  {
-    "label": "Tripura",
-    "value": "Tripura"
-  },
-  {
-    "label": "Uttar Pradesh",
-    "value": "Uttar Pradesh"
-  },
-  {
-    "label": "Uttarakhand",
-    "value": "Uttarakhand"
-  },
-  {
-    "label": "West Bengal",
-    "value": "West Bengal"
+    "label": "Skardu",
+    "value": "Skardu"
   }
 ]
