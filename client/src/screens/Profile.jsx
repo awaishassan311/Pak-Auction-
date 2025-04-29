@@ -136,7 +136,7 @@ const Profile = () => {
                     Mobile:
                   </Typography>
                   <Typography variant='subtitle1' gutterBottom>
-                    +91-{data.mobile}
+                    +92-{data.mobile}
                   </Typography>
                 </Stack>
                 <Stack direction='row' spacing={1}>

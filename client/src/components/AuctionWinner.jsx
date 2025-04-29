@@ -136,7 +136,7 @@ const AuctionWinner = () => {
               <Typography gutterBottom variant='subtitle1' textAlign='center'>
                 Mobile:{' '}
                 <Link
-                  href={`tel:+91-${data.contactDetails.mobile}`}
+                  href={`tel:+92-${data.contactDetails.mobile}`}
                   rel='noopener noreferrer'
                   underline='hover'
                 >

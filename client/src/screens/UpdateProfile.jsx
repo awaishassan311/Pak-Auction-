@@ -153,17 +153,18 @@ const UpdateProfile = () => {
                   }}
                 />
 
-                <Input
-                  control={control}
-                  name='mobile'
-                  label='Mobile'
-                  placeholder='Valid Indian mobile number'
-                  error={errors?.mobile?.message}
-                  disabled={loading}
-                  leftContent={() => {
-                    return '+91-';
-                  }}
-                />
+<Input
+  control={control}
+  name="mobile"
+  label="Mobile"
+  placeholder="Valid Pakistani mobile number"
+  error={errors?.mobile?.message}
+  disabled={loading}
+  leftContent={() => {
+    return '+92-';
+  }}
+/>
+
 
                 <Input
                   control={control}
