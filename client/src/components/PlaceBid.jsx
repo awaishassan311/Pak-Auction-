@@ -36,7 +36,7 @@ const PlaceBid = () => {
         disabled={!isAuctionLive(startTime, endTime)}
         themeColor='success'
         sx={{ fontWeight: 'bold' }}
-        leftContent={() => <RupeeIcon color='success' />}
+      
       />
 
       <Button
